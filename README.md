@@ -125,7 +125,8 @@ Para conceber e estruturar a suíte de testes de integração com alto padrão d
 
 ### Passo 1: Clonar e Acessar o Repositório
 ```bash
-cd ava
+git clone https://github.com/jpaulo789b/pokemon-team-api.git
+cd pokemon-team-api
 ```
 
 ### Passo 2: Criar e Ativar o Ambiente Virtual
